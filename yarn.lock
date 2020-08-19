@@ -1878,17 +1878,17 @@
   dependencies:
     "@sinonjs/commons" "^1.7.0"
 
-"@storybook/addon-actions@^6.0.12":
-  version "6.0.12"
-  resolved "https://registry.yarnpkg.com/@storybook/addon-actions/-/addon-actions-6.0.12.tgz#ccee062a5836cac57b9b1ea2ba1b66c7b1df0863"
-  integrity sha512-Qs54RCIKXoBo3lYbAevrDHnKm6BMIxN+WNkVrBfxCvlgk+jxaSvyjoU/UkfVAmZWDuPLcKNmONIK0HoQS9xhtQ==
+"@storybook/addon-actions@^6.0.13":
+  version "6.0.13"
+  resolved "https://registry.yarnpkg.com/@storybook/addon-actions/-/addon-actions-6.0.13.tgz#cf9545124628b82ca7212a86db6a7b370faa15b3"
+  integrity sha512-sO2q6DeaSVHQR3GeeuohJRNB71/UwnJMQQvbeH1HwtLEhUAeY8Qtv9njx4rsTntyOxOmEUVFik5X9lzymLQJnw==
   dependencies:
-    "@storybook/addons" "6.0.12"
-    "@storybook/api" "6.0.12"
-    "@storybook/client-api" "6.0.12"
-    "@storybook/components" "6.0.12"
-    "@storybook/core-events" "6.0.12"
-    "@storybook/theming" "6.0.12"
+    "@storybook/addons" "6.0.13"
+    "@storybook/api" "6.0.13"
+    "@storybook/client-api" "6.0.13"
+    "@storybook/components" "6.0.13"
+    "@storybook/core-events" "6.0.13"
+    "@storybook/theming" "6.0.13"
     core-js "^3.0.1"
     fast-deep-equal "^3.1.1"
     global "^4.3.2"
@@ -1927,7 +1927,7 @@
     react-select "^3.0.8"
     regenerator-runtime "^0.13.3"
 
-"@storybook/addon-links@^6.0.13":
+"@storybook/addon-links@^6.0.10":
   version "6.0.13"
   resolved "https://registry.yarnpkg.com/@storybook/addon-links/-/addon-links-6.0.13.tgz#c91ab596784d5d7f58861fe594346a6551ec102a"
   integrity sha512-xnXI8/zOiSBH5+yWmwXQldw4dlUCV794iMnzVFJyKSGvTZ3Ut8VqYp3dVU17TgMndpDXWowbTsN4Rslzsgyclg==
@@ -2052,7 +2052,7 @@
     global "^4.3.2"
     qs "^6.6.0"
     telejson "^5.0.2"
-
+    
 "@storybook/channels@6.0.12":
   version "6.0.12"
   resolved "https://registry.yarnpkg.com/@storybook/channels/-/channels-6.0.12.tgz#377f8049272f1862f9235a5051d95124d53fa08e"
@@ -2141,6 +2141,20 @@
     "@storybook/client-logger" "6.0.12"
     "@storybook/csf" "0.0.1"
     "@storybook/theming" "6.0.12"
+    "@types/overlayscrollbars" "^1.9.0"
+    "@types/react-color" "^3.0.1"
+    "@types/react-syntax-highlighter" "11.0.4"
+    core-js "^3.0.1"
+    global "^4.3.2"
+
+"@storybook/components@6.0.13":
+  version "6.0.13"
+  resolved "https://registry.yarnpkg.com/@storybook/components/-/components-6.0.13.tgz#7ad65e019579eaf733d62013771bee14e10ece0e"
+  integrity sha512-DSi1eucNTWEyUMr25aXTRthgCq6utHp7OGvtJ283ROTNdsaXrm7L2aFm87y7q0tmWaRSvXAqmP9l5+Bh+OAc9A==
+  dependencies:
+    "@storybook/client-logger" "6.0.13"
+    "@storybook/csf" "0.0.1"
+    "@storybook/theming" "6.0.13"
     "@types/overlayscrollbars" "^1.9.0"
     "@types/react-color" "^3.0.1"
     "@types/react-syntax-highlighter" "11.0.4"
