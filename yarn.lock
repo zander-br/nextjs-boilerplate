@@ -1902,18 +1902,18 @@
     util-deprecate "^1.0.2"
     uuid "^8.0.0"
 
-"@storybook/addon-knobs@^6.0.13":
-  version "6.0.13"
-  resolved "https://registry.yarnpkg.com/@storybook/addon-knobs/-/addon-knobs-6.0.13.tgz#3fee8a282cfa7541d8bbf99fdc4aa4f49a586509"
-  integrity sha512-uePItx6CdLS0fklZZ6v1VTw0KR6Sn26pXpgr4K/et5oTuP3WqDBjb5lBhSi5tFlVI1wMDMYSYNq0gfF0HsMi9Q==
+"@storybook/addon-knobs@^6.0.16":
+  version "6.0.16"
+  resolved "https://registry.yarnpkg.com/@storybook/addon-knobs/-/addon-knobs-6.0.16.tgz#ef7b9a67c5f3f75579af1d3c2c1f36205f77f505"
+  integrity sha512-//4Fq70M7LLOghM6+eugL53QHVmlbBm5240u+Aq2nWQLUtaszrPW6/7Vj0XRwLyp/DQtEHetTE/fFfCLoGK+dw==
   dependencies:
-    "@storybook/addons" "6.0.13"
-    "@storybook/api" "6.0.13"
-    "@storybook/channels" "6.0.13"
-    "@storybook/client-api" "6.0.13"
-    "@storybook/components" "6.0.13"
-    "@storybook/core-events" "6.0.13"
-    "@storybook/theming" "6.0.13"
+    "@storybook/addons" "6.0.16"
+    "@storybook/api" "6.0.16"
+    "@storybook/channels" "6.0.16"
+    "@storybook/client-api" "6.0.16"
+    "@storybook/components" "6.0.16"
+    "@storybook/core-events" "6.0.16"
+    "@storybook/theming" "6.0.16"
     copy-to-clipboard "^3.0.8"
     core-js "^3.0.1"
     escape-html "^1.0.3"
@@ -1945,7 +1945,7 @@
     regenerator-runtime "^0.13.3"
     ts-dedent "^1.1.1"
 
-"@storybook/addons@6.0.13", "@storybook/addons@^6.0.7":
+"@storybook/addons@6.0.13":
   version "6.0.13"
   resolved "https://registry.yarnpkg.com/@storybook/addons/-/addons-6.0.13.tgz#2343f45bd0cc17da92948c063dd8c67939d10d1a"
   integrity sha512-0flK0xe1LxNa3ZVOpFJoTG7PPU0ri+Gb9qHxcGwRMJt/qVQVcuF7BL+CC1R5gg2fa8Z0A867X4quLPfUOJvCmQ==
@@ -1960,7 +1960,7 @@
     global "^4.3.2"
     regenerator-runtime "^0.13.3"
 
-"@storybook/addons@6.0.16":
+"@storybook/addons@6.0.16", "@storybook/addons@^6.0.7":
   version "6.0.16"
   resolved "https://registry.yarnpkg.com/@storybook/addons/-/addons-6.0.16.tgz#a20a219bd5b1474ad02b92e79a74652898a684d9"
   integrity sha512-jGMaOJYTM2yZeX1tI6whEn+4xpI1aAybZBrc+OD21CcGoQrbF/jplZMq7xKI0Y6vOMguuTGulpUNCezD3LbBjA==
